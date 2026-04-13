@@ -2,8 +2,8 @@
 venv/
 
 # data files 
-data/
-data/
+data/processed
+data/raw
 
 # model files
 models/*.pkl
