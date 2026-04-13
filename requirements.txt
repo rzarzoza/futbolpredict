@@ -1,0 +1,9 @@
+pandas # to read the CSVs
+numpy # math basis for everything
+scikit-learn # ml python library
+xgboost # algoritmo complicado que genera arboles de decision en donde cada uno corrige los errores del anterior
+matplotlib # graficas
+seaborn # mejores visualizaciones
+jupyter # notebooks
+fastapi # api rest
+uvicorn # asgi handler for http requests 
