@@ -1,5 +1,9 @@
-# data files
-data/
-
 # virtual env
 venv/
+
+# data files 
+data/raw/
+data/processed/
+
+# model files
+models/*.pkl
