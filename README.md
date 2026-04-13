@@ -1,4 +1,4 @@
-```
+
 # ⚽ FutbolPredict
 
 A machine learning system that predicts football match outcomes (home win, draw, or away win) using historical match data from Europe's top 5 leagues.
@@ -78,4 +78,3 @@ Python, pandas, NumPy, scikit-learn, XGBoost
 
 A CS student at Rice University who watches too much football.
 ```
-
