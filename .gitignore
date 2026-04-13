@@ -1,5 +1,5 @@
 # data files
-*.csv
+data/
 
 # virtual env
 venv/
